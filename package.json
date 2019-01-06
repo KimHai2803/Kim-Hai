@@ -4,7 +4,7 @@
   "description": "to-do app",
   "main": "todoAPP.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "todoAPP.js"
   },
   "author": "",
   "license": "ISC",
